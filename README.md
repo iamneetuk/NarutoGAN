@@ -11,7 +11,7 @@ Generator and Discriminator checkpoints can be found under Checkpoint folder.
 ## Dataset Sample images
 ![alt Sample Image](https://github.com/iamneetuk/NarutoGAN/blob/main/sample-dataset/sample.png?raw=true)
 
-## Dataset Sample images
+## GAN generated images
 ![alt Generated Image](https://github.com/iamneetuk/NarutoGAN/blob/main/generated/naruto/generated-images-2801.png?raw=true)
 
 
