@@ -17,11 +17,11 @@ Generator and Discriminator checkpoints can be found under Checkpoint folder.
 
 ## Library Used
 
-Pytorch
-face_recognition
-PIL
-NumPy
-Opendataset
+- Pytorch
+- face_recognition
+- PIL
+- NumPy
+- Opendataset
 
 
 
