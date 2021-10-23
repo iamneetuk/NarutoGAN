@@ -23,6 +23,9 @@ Generator and Discriminator checkpoints can be found under Checkpoint folder.
 - NumPy
 - Opendataset
 
+## Contact
+If you have any questions or feedback, feel free to reach out to me at neetukum@usc.edu
+
 
 
 
